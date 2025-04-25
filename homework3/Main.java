@@ -10,6 +10,7 @@ public class Main {
         System.out.println("2. 전체 학생 정보 출력");
         System.out.println("3. 평균 성적 계산 및 출력");
         System.out.println("4. 최고 성적 학생 정보 출력");
+        System.out.println("5. 프로그램 종료");
 
         StudentManager studentManager = new StudentManager(10);
 
